@@ -2,7 +2,8 @@ var materials = [
     'Hydrogen',
     'Helium',
     'Lithium',
-    'Beryllium'
+    'Beryllium',
+    'First One'
   ];
 
  const mp =  materials.map(material => console.log(material)
